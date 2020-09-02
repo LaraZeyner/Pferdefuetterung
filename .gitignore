@@ -1,0 +1,16 @@
+# Dateien einer spezifischen Dateiendung #
+*.class
+*.classpath
+*.dll
+*.iml
+*.log
+*.lst
+*.project
+
+# Dateien eines spezifischen Ordners #
+.idea
+.settings
+/bin/
+javadoc
+out
+target
